@@ -1,0 +1,47 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Quartz-Spring-01:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quartz_Spring_01_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Quartz-Spring-01" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.3.0" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
+          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP-java6:2.3.13" />
+          <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz-jobs:2.3.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jms:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-oxm:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc-portlet:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-websocket:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-instrument:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-instrument-tomcat:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.9.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.5" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.0.13" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.13" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Quartz-Spring-01/web/Web" />
+    </root>
+  </artifact>
+</component>
